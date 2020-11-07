@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Alt text](Hey.gif)
+
+[![HitCount](http://hits.dwyl.com/https://githubcom/isaquebrother90/{project}.svg)](http://hits.dwyl.com/https://githubcom/isaquebrother90/{project})
