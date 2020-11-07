@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ![Alt text](Hey.gif)
 
 [![HitCount](http://hits.dwyl.com/https://githubcom/isaquebrother90/{project}.svg)](http://hits.dwyl.com/https://githubcom/isaquebrother90/{project})
+
+<a href="#">
+    <img src="help/BadgeLinkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
