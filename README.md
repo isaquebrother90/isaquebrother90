@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Alt text](Hey.gif)
-----------------------------------------------------
 ## <h2 align="center">Desenvolvedor Full Stack, fã de um cafezinho, curioso por natureza. Estou em transição de carreira, saindo da área de vendas para TI. Procurando uma oportunidade pra entrar na área, se souber de algo, me chama! </center>
 
 [![HitCount](http://hits.dwyl.com/https://githubcom/isaquebrother90/{project}.svg)](http://hits.dwyl.com/https://githubcom/isaquebrother90/{project})
