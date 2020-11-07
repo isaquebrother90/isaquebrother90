@@ -1,163 +1,3 @@
-# Colored Badges for GitHub profiles
-I've put together some badges I for my [GitHub profile readme](https://github.com/MikeCodesDotNET) as shown below and thought they might be useful to others. 
-
-<p align="center">
-  <a href="#">
-    <img src="help/mybiopage.png" alt="my github bio page!" style="vertical-align:top; margin:6px 4px">
-  </a> 
-</p>
-
----
-
-
-## The Badges
-
-All badges are available as both [SVG](https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg) & [PNG](https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/png). I've also included the original [Figma file](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/badges.fig) I used to create these should you want to change the text. 
-
----
-
-## How to add a readme on your profile
-
-It's super simple! 
-
-Create a new repo using your GitHub username as the repo name. Voilà! 🎉🎉🎉🎉
-
----
-
-## Tips for using the Icons
-I'm sure you're already a pro with creating GitHub markdown documents, but I thought I'd give you a quick tip anyways.
-
-Always try to use the SVG icons over the png. SVGs are scalable and look fabulous no matter what size device or DPI settings the viewer is using. 
-
-You can add an SVG image with a link using the following snippet: 
-```
- <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
-```
-
-Note how I have also provided **margins** of 6px for top and bottom and 4px for left and right. This allows the badges to have a little bit of space between them. 
-
-### Alignment 
-You can align the badges by wrapping the seconds in a paragraph tag and setting the alignment property. 
-
-#### Left Alignment
-```
-<p align="left">
-  <!-- Badges go here>
-</p>
-```
-<p align="left">
- <a href="#">
-    <img src="help/Badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
- <a href="#">
-    <img src="help/Badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
- <a href="#">
-    <img src="help/Badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
-</p>
-
-#### Center Alignment
-```
-<p align="center">
-  <!-- Badges go here>
-</p>
-```
-<p align="center">
-  <a href="#">
-    <img src="help/Badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
- <a href="#">
-    <img src="help/Badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
- <a href="#">
-    <img src="help/Badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
-</p>
-
-#### Right Alignment
-```
-<p align="right">
-  <!-- Badges go here>
-</p>
-```
-<p align="right">
-  <a href="#">
-    <img src="help/Badge1.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
- <a href="#">
-    <img src="help/Badge2.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
- <a href="#">
-    <img src="help/Badge3.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
-</p>
-
----
-
-## Editing / Creating you own 
-The [Figma file](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/badges.fig) contains a page detailing how to match the existing badge styles. 
-
----
-
-## Missing a badge you want? 
-Either create your own with the supplied files or create an [issue](https://github.com/MikeCodesDotNET/ColoredBadges/issues/new?body=I%27d+like+to+have+a+new+badge.%0A%0A---Request+Info:) and if enough others thumbs-up the issue then I'll do my best to get the badge made. 
-
-### Badge requests 
-It's super useful to have a few bits of information to speed up badge creation. It's much appreciated but not obligatory for you to provide an example icon/reference image, preferred background color and the text label content. 
-
-<p align="center">
- <a href="#">
-    <img src="help/BadgeAnatomy.png" alt=" badge anatomy" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <p>
-
-### Request Template: 
-
-**Reference Icon(s)**: 
-
-**Preferred Background**: FF9900 / Orange
-
-**Label Text**: Hello World 
-
----
-
-# Badges 
-
-## Blogging Platforms
-<p align="left">
-  <a href="#">
-    <img src="svg/blogs/blogger.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
- <a href="#">
-    <img src="svg/blogs/devto.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/blogs/medium.svg" alt="medium" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/blogs/microblog.svg" alt="microblog" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/blogs/rss.svg" alt="rss" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/blogs/tumblr.svg" alt="tumblr" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/blogs/wordpress.svg" alt="wordpress" style="vertical-align:top; margin:6px 4px">
-  </a>   
-</p>
- 
----
 
 ## Developer Tech
 
@@ -166,37 +6,15 @@ It's super useful to have a few bits of information to speed up badge creation. 
 <p align="left">
   <a href="#">
     <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/frameworks/avalonia.svg" alt="avalonia" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>    
 
    <a href="#">
     <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/frameworks/godot.svg" alt="godot" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  
-  <a href="#">
-    <img src="svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>   
 
   <a href="#">
     <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
-  <a href="#">
-    <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>   
 
   <a href="#">
     <img src="svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
@@ -208,56 +26,10 @@ It's super useful to have a few bits of information to speed up badge creation. 
 
   <a href="#">
     <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/frameworks/phonegap.svg" alt="phonegap" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/frameworks/qt.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
-  <a href="#">
-    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/frameworks/sencha.svg" alt="sencha" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
-   <a href="#">
-    <img src="svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/frameworks/uwp.svg" alt="uwp" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>   
 
   <a href="#">
     <img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/frameworks/wpf.svg" alt="wpf" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/frameworks/xamarin_android.svg" alt="xamarin_android" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/frameworks/xamarin_forms.svg" alt="xamarin_forms" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/frameworks/xamarin_ios.svg" alt="xamarin_ios" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/frameworks/xamarin_mac.svg" alt="xamarin_mac" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 </p>
