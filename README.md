@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align="left">
 
   <a href="https://www.linkedin.com/in/isaquemoura/">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/linkedin.svg" alt="linkedin" target="_blank" style="vertical-align:top; margin:6px 4px">
   </a>
   
   <a href="#">
