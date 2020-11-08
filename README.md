@@ -18,11 +18,30 @@ Here are some ideas to get you started:
 ![Alt text](Hey.gif)
 ## <h2 align="center">Desenvolvedor Full Stack, fã de um cafezinho, curioso por natureza. Estou em transição de carreira, saindo da área de vendas para TI. Procurando uma oportunidade pra entrar na área, se souber de algo, me chama! </center>
 
-
-
 &nbsp;
 
-[![HitCount](http://hits.dwyl.com/https://githubcom/isaquebrother90/{project}.svg)](http://hits.dwyl.com/https://githubcom/isaquebrother90/{project})
+
+## &#x1f4c8; GitHub Stats
+<p align="center">
+<a href="https://github.com/isaquebrother90">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquebrother90&hide=html,python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/isaquebrother90/isaquebrother90">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isaquebrother90&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Status do GitHub do Isaque" />
+</a>
+  </p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=isaquebrother90&label=Profile%20views&color=0e75b6&style=flat" alt="isaquebrother90" /> </p>
+&nbsp;
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaquebrother90" alt="isaquebrother90"/></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaquebrother90&hide=python&show_icons=true&locale=en&layout=compact" alt="isaquebrother90" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaquebrother90&show_icons=true&locale=en" alt="isaquebrother90" /></p>
+
 
 <br>
 &nbsp;
@@ -297,6 +316,8 @@ Here are some ideas to get you started:
   </a>  
 
 </p>
+
+
 
 <!-- START gadpp -->
 
