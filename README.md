@@ -40,15 +40,15 @@ Here are some ideas to get you started:
     <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>   
 
-  <a href="#">
+  <a href="mailto:isaquebrother90@hotmail.com/" target="_blank">
     <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-  <a href="#">
+  <a href="mailto:isaquebrother90@hotmail.com/" target="_blank">
     <img src="svg/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a href="#">
+  <a href="https://www.reddit.com/user/Sad_Industry6453/" target="_blank">
     <img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
   </a>       
   
