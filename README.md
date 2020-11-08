@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
   
-  <a href="#">
+  <a href="https://cutt.ly/6gJwKx7" target="_blank">
     <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a> 
 
