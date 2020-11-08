@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 
 
-<br>
+&nbsp;
 
 [![HitCount](http://hits.dwyl.com/https://githubcom/isaquebrother90/{project}.svg)](http://hits.dwyl.com/https://githubcom/isaquebrother90/{project})
 
-<p></p>
-<p></p>
+<br>
+&nbsp;
 
 ### Redes sociais & Contatos
 <p align="left">
@@ -297,3 +297,6 @@ Here are some ideas to get you started:
   </a>  
 
 </p>
+
+<!-- START gadpp -->
+
