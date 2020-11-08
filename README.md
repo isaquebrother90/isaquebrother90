@@ -300,3 +300,5 @@ Here are some ideas to get you started:
 
 <!-- START gadpp -->
 
+<!--START_SECTION:activity-->
+
