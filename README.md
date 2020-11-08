@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ### Streaming & Videos
 <p align="left"> 
 
-  <a href="#">
+  <a href="https://www.youtube.com/channel/UC-biOQ-yUeM_FJUIcAKkgvA?view_as=subscriber" target="_blank">
     <img src="svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px">
   </a>  
 
