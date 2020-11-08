@@ -52,11 +52,11 @@ Here are some ideas to get you started:
     <img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
   </a>       
   
-  <a href="#">
+  <a href="https://stackoverflow.com/users/14598571/isaque-moura/" target="_blank">
     <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
-  </a>        <a href="#">
+  </a>        <a href="https://t.me/isaquebrother90/" target="_blank">  
     <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
-  </a>        <a href="#">
+  </a>        <a href="https://twitter.com/Isaque72611061/" target="_blank">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>             
 
