@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 ## <h2 align="center">Desenvolvedor Full Stack, fã de um cafezinho, curioso por natureza. Estou em transição de carreira, saindo da área de vendas para TI. Procurando uma oportunidade pra entrar na área, se souber de algo, me chama! </center>
 
 
+
+<br>
+
 [![HitCount](http://hits.dwyl.com/https://githubcom/isaquebrother90/{project}.svg)](http://hits.dwyl.com/https://githubcom/isaquebrother90/{project})
+
+<p></p>
+<p></p>
 
 ### Redes sociais & Contatos
 <p align="left">
