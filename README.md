@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/isaquebrother90">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquebrother90&hide=html,python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquebrother90&hide=python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
   </p>
 
@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaquebrother90" alt="isaquebrother90"/></a> </p>-->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaquebrother90&hide=python&show_icons=true&locale=en&layout=compact" alt="isaquebrother90" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaquebrother90&hide=python&show_icons=true&locale=en&layout=compact" alt="isaquebrother90" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaquebrother90&show_icons=true&locale=en" alt="isaquebrother90" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaquebrother90&show_icons=true&locale=en" alt="isaquebrother90" /></p>-->
 
 
 <br>
