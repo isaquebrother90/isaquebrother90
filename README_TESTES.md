@@ -1,6 +1,13 @@
-## Redes sociais & Contatos
+### Redes sociais & Contatos
 <p align="left">
 
+  <a href="#">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="#">
+    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+  </a> 
 
   <a href="#">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
@@ -8,24 +15,19 @@
 
   <a href="#">
     <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>   
 
   <a href="#">
     <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
   </a>  
 
+  <a href="#">
+    <img src="svg/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
+  </a>
 
   <a href="#">
     <img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
-  </a>     
+  </a>       
   
   <a href="#">
     <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
@@ -33,15 +35,11 @@
     <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>        <a href="#">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>            <a href="#">
-    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>             
 
 </p>
 
---- 
-
-## Streaming & Videos
+### Streaming & Videos
 <p align="left"> 
 
   <a href="#">
@@ -130,7 +128,48 @@
 
 </p>
 
-### Services 
+### Ferramentas 
+<p align="left">
+  
+  <a href="#">
+    <img src="svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+   <a href="#">
+    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+  <a href="#">
+    <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+  <a href="#">
+    <img src="svg/dev/tools/BadgeNetbeans.svg" alt="netbeans" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+</p>
+
+### Serviços
 <p align="left">
 
   <a href="#">
@@ -171,48 +210,6 @@
   
   <a href="#">
     <img src="svg/dev/services/BadgeHeroku.svg" alt="heroku" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  
-</p>
-
-### Ferramentas 
-<p align="left">
-  
-  <a href="#">
-    <img src="svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-   <a href="#">
-    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-  <a href="#">
-    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-  <a href="#">
-    <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-  <a href="#">
-    <img src="svg/dev/tools/BadgeNetbeans.svg" alt="netbeans" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 </p>
