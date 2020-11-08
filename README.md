@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-  <a href="#">
+  <a href="mailto:isaquebrother90@gmail.com" target = "_blank">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
 
