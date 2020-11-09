@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ![Alt text](Hey.gif)
-## <h2 align="center">Desenvolvedor Full Stack, fã de um cafezinho, curioso por natureza. Estou em transição de carreira, saindo da área de vendas para TI. Procurando uma oportunidade pra entrar na área, se souber de algo, me chama! </center>
+ <h3 align="center">Desenvolvedor Full Stack, fã de um cafezinho, curioso por natureza. Estou em transição de carreira, saindo da área de vendas para TI. Procurando uma oportunidade pra entrar na área, se souber de algo, me chama! </center>
 
 &nbsp;
 
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <p align="center">
 <a href="https://github.com/isaquebrother90/isaquebrother90">
@@ -318,9 +318,6 @@ Here are some ideas to get you started:
 
 </p>
 
-
-
-<!-- START gadpp -->
 
 <!--START_SECTION:activity-->
 
