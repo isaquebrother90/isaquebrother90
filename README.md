@@ -45,6 +45,14 @@ Here are some ideas to get you started:
 
 
 <br>
+
+### Atividades recentes
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#20](https://github.com/Nerd0000/Links-de-tecnologia/pull/20) in [Nerd0000/Links-de-tecnologia](https://github.com/Nerd0000/Links-de-tecnologia)
+2. 💪 Opened PR [#101](https://github.com/gabrielcmarinho/links-uteis/pull/101) in [gabrielcmarinho/links-uteis](https://github.com/gabrielcmarinho/links-uteis)
+3. 💪 Opened PR [#67](https://github.com/leticiadasilva/por-onde-comecar/pull/67) in [leticiadasilva/por-onde-comecar](https://github.com/leticiadasilva/por-onde-comecar)
+<!--END_SECTION:activity-->
+
 &nbsp;
 
 ### Redes sociais & Contatos
@@ -319,9 +327,5 @@ Here are some ideas to get you started:
 </p>
 
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/Nerd0000/Links-de-tecnologia/pull/20) in [Nerd0000/Links-de-tecnologia](https://github.com/Nerd0000/Links-de-tecnologia)
-2. 💪 Opened PR [#101](https://github.com/gabrielcmarinho/links-uteis/pull/101) in [gabrielcmarinho/links-uteis](https://github.com/gabrielcmarinho/links-uteis)
-3. 💪 Opened PR [#67](https://github.com/leticiadasilva/por-onde-comecar/pull/67) in [leticiadasilva/por-onde-comecar](https://github.com/leticiadasilva/por-onde-comecar)
-<!--END_SECTION:activity-->
+
 
