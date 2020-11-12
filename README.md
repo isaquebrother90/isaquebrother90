@@ -161,15 +161,7 @@ Here are some ideas to get you started:
 
   <a href="#">
     <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/dev/languages/fsharp.svg" alt="fsharp" style="vertical-align:top; margin:6px 4px">
-  </a>  
- 
-  <a href="#">
-    <img src="svg/dev/languages/fsharp_dotnet.svg" alt="fsharp_dotnet" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>   
 
   <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
