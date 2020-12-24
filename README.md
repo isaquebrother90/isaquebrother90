@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Alt text](Hey.gif)
- <h3 align="center">Desenvolvedor Full Stack, fã de um cafezinho, curioso por natureza. Estou em transição de carreira, saindo da área de vendas para TI. Procurando uma oportunidade pra entrar na área, se souber de algo, me chama! </center>
+ <h3 align="center">Desenvolvedor Full Stack, fã de um cafezinho, curioso por natureza. Estou em transição de carreira, saindo da área de vendas para TI. Sempre disposta a aprender e ensinar, me chama! </center>
 
 &nbsp;
 
