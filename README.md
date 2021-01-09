@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 ### &#x1f4c8; GitHub Stats
 
 <p align="center">
-
+  <a href="https://github.com/isaquebrother90/isaquebrother90">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isaquebrother90&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Status do GitHub do Isaque" />
+</a>
   
   <a href="https://github.com/isaquebrother90">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquebrother90&hide=python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="207px" />
