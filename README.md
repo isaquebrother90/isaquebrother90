@@ -28,12 +28,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=isaquebrother90&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Status do GitHub do Isaque" />
 </a>
   
-  <a href="https://github.com/isaquebrother90">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquebrother90&hide=python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="207px" />
-</a>
-  </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=isaquebrother90&label=Profile%20views&color=0e75b6&style=flat" alt="isaquebrother90" /> </p>
+  
+  
+  
 &nbsp;
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaquebrother90" alt="isaquebrother90"/></a> </p>-->
