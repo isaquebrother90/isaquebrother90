@@ -62,7 +62,7 @@ Here are some ideas to get you started:
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
   
-  <a href="https://cutt.ly/6gJwKx7" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5511953828871&text=Vamos%20bater%20um%20papo%3F" target="_blank">
     <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a> 
 
