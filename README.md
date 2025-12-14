@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Alt text](Hey.gif)
- <h3 align="center">Desenvolvedor Back-End, fã de um cafezinho, curioso por natureza. Estou sempre disposto a aprender e ensinar, me chama! </center>
+ <h3 align="center">Engenheiro de Software com foco em desenvolvimento back-end com Java, fã de um cafezinho, curioso por natureza. Estou sempre disposto a aprender e ensinar, me chama! </center>
 
 &nbsp;
 
